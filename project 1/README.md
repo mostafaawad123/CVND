@@ -3,7 +3,7 @@
 [image1]: image/key_pts_example.png "Facial Keypoint Detection"
 
 
-[image2]: image/Awad.jpg "After train my model for 10 epochs only"
+[image2]: image/1.jpg "After train my model for 10 epochs only"
 
 # Facial Keypoint Detection
 
