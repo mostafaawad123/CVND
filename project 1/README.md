@@ -179,6 +179,6 @@ Alternatively, your submission could consist of only the **GitHub link** to your
 LICENSE: This project is licensed under the terms of the MIT license.
 
 
-
+# After train my CNN network for 10 epochs.
 
 ![After train my model for 10 epochs onlyn][image2]
