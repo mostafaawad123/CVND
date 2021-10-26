@@ -3,7 +3,7 @@
 [image1]: image/key_pts_example.png "Facial Keypoint Detection"
 
 
-[image2]: image/Awad.jpg "After train model for 10 epochs"
+[image2]: image/Awad.jpg "After train my model for 10 epochs only"
 
 # Facial Keypoint Detection
 
@@ -174,6 +174,9 @@ Alternatively, your submission could consist of only the **GitHub link** to your
 #### Predict and display the keypoints
 | Criteria       		|     Meets Specifications	        			            |
 |:---------------------:|:---------------------------------------------------------:|
+
+
+![Facial Keypoint Detection][image1]
 | Predict and display the keypoints on each detected face. | After face detection with a Haar cascade and face pre-processing, apply your trained model to each detected face, and display the predicted keypoints on each face in the image. |
 
 LICENSE: This project is licensed under the terms of the MIT license.
